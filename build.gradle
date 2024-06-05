@@ -3,7 +3,7 @@ plugins {
   id 'maven-publish'
 }
 
-group "springing-struts2"
+group "springing-struts"
 version "1.0.0"
 
 publishing {
